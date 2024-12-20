@@ -25,3 +25,5 @@ https://www.linkedin.com/in/maloyroyorko
 https://medium.com/@maloyroyorko
 
 💌 Threads: https://www.threads.net/@maloyroyarko
+
+<a href="https://ibb.co.com/YpxsdmY"><img src="https://i.ibb.co.com/jgSXwmB/Screenshot-2024-12-20-21-03-13-43.jpg" alt="Screenshot-2024-12-20-21-03-13-43" border="0"></a>
