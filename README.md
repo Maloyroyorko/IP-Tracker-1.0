@@ -2,6 +2,8 @@
 
 🌿 This Tool Has Been Coded By Maloy Roy Orko!💻👨‍💻
 
+⚠️☣️☠️ This Tool Is A Graphical Tool And Needs PHP Server To Be Run 🙂
+
 💻 Many Information About That IP-Address Can Be Found By This Tool Including City Name,Continent Code,Country Name,Latitude,Longitude,Time Zone,Weather Code,Subdivision Name,Autonomous System Number,Autonomous System Organization,Connection Type,ISP Name,User Type!
 
 👨‍💻 I Have Many Tools To Convert The Latitude & Longtitude To Full Address (GEOCODING) In My Repository Section.You Can Get It Easily 
